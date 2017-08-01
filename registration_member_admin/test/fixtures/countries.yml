@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  iso: MyString
+  iso3: MyString
+  codeNum: 9.99
+  name: MyString
+
+two:
+  iso: MyString
+  iso3: MyString
+  codeNum: 9.99
+  name: MyString

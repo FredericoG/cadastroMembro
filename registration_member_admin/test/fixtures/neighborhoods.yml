@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codeNeighborhood: 1
+  codeCity: 1
+  descriptionNeighborhood: MyString
+  city_id: 1
+
+two:
+  codeNeighborhood: 1
+  codeCity: 1
+  descriptionNeighborhood: MyString
+  city_id: 1

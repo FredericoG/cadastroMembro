@@ -1,0 +1,2 @@
+class MemberRegisterExportError < ApplicationRecord
+end

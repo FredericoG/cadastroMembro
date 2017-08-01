@@ -1,0 +1,51 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: 1
+  name: MyString
+  email: MyString
+  birth: 2017-07-31
+  cpf: 9.99
+  rg: MyString
+  maritalStatus: 1
+  weddingDate: 2017-07-31
+  spouge: MyString
+  fatherName: MyString
+  motherName: MyString
+  profession_id: 1
+  phone_id: 1
+  image: MyText
+  baptized: 1
+  baptizedDate: 2017-07-31
+  son_id: 1
+  sex: 1
+  maritalCode: 1
+  member: 1
+  evangelical: 1
+  street_id: 1
+  note: MyString
+
+two:
+  code: 1
+  name: MyString
+  email: MyString
+  birth: 2017-07-31
+  cpf: 9.99
+  rg: MyString
+  maritalStatus: 1
+  weddingDate: 2017-07-31
+  spouge: MyString
+  fatherName: MyString
+  motherName: MyString
+  profession_id: 1
+  phone_id: 1
+  image: MyText
+  baptized: 1
+  baptizedDate: 2017-07-31
+  son_id: 1
+  sex: 1
+  maritalCode: 1
+  member: 1
+  evangelical: 1
+  street_id: 1
+  note: MyString

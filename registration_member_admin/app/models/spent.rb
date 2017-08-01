@@ -1,0 +1,2 @@
+class Spent < ApplicationRecord
+end

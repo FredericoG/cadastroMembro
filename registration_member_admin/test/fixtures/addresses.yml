@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codeAddress: 1
+  codeNeighborhood: 1
+  addressZipCode: MyString
+  addressStreet: MyString
+  addressAdd: MyString
+  neighborhood_id: 1
+
+two:
+  codeAddress: 1
+  codeNeighborhood: 1
+  addressZipCode: MyString
+  addressStreet: MyString
+  addressAdd: MyString
+  neighborhood_id: 1

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  payCode: 1
+  payDescription: MyString
+  totalAmountPay: 9.99
+  dueDate: 2017-07-31 20:36:04
+  download: MyString
+  card: MyString
+
+two:
+  payCode: 1
+  payDescription: MyString
+  totalAmountPay: 9.99
+  dueDate: 2017-07-31 20:36:04
+  download: MyString
+  card: MyString

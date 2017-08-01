@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  spentCode: 1
+  spentDescription: MyString
+  month: 1
+  time: 2017-07-31 20:37:16
+  totalAmountSpent: 9.99
+
+two:
+  spentCode: 1
+  spentDescription: MyString
+  month: 1
+  time: 2017-07-31 20:37:16
+  totalAmountSpent: 9.99

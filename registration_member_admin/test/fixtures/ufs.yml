@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codeUf: 1
+  acronymUf: MyString
+  descriptionUf: MyString
+
+two:
+  codeUf: 1
+  acronymUf: MyString
+  descriptionUf: MyString

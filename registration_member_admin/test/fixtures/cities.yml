@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codeCity: 1
+  codeUf: 1
+  descriptionCity: MyString
+  cityZipCode: MyString
+  uf_id: 1
+
+two:
+  codeCity: 1
+  codeUf: 1
+  descriptionCity: MyString
+  cityZipCode: MyString
+  uf_id: 1

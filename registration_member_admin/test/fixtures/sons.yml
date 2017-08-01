@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: 1
+  sonName: MyString
+  birthDate: 2017-07-31
+  memberCod: 1
+
+two:
+  code: 1
+  sonName: MyString
+  birthDate: 2017-07-31
+  memberCod: 1
